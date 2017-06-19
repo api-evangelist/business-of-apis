@@ -1,237 +1,4 @@
 ---
-- curated_id: b1ae861d2d88ca390f93ca03310dc864
-  item_date: "2012-04-21 12:49:06"
-  title: Why Startups Need an API
-  url: https://tune.com/blog/startups-need-api/
-  domain: tune.com
-  image: ""
-- curated_id: 59240d43c8a579d42099f109fe1933ec
-  item_date: "2012-04-29 10:19:04"
-  title: ""
-  url: http://betakit.com/2012/04/28/startups-in-the-business-of-apis
-  domain: betakit.com
-  image: ""
-- curated_id: 187cb99440c66dd56c407736fef1285d
-  item_date: "2012-05-05 12:03:32"
-  title: 'Better Late Than Never: Deezer Releases APIs To Court Developers In Latest
-    Bid To Catch Up To Spotify'
-  url: https://techcrunch.com/2012/05/03/better-late-than-never-deezer-releases-apis-to-court-developers-in-latest-bid-to-catch-up-to-spotify/
-  domain: techcrunch.com
-  image: ""
-- curated_id: 12f6c27a8a7148e729e9ae4280852af7
-  item_date: "2014-05-28 00:00:00"
-  title: 'API-Centric Architecture: APIs Make Agile Data Possible '
-  url: http://apigee.com/about/blog/technology/api-centric-architecture-apis-make-agile-data-possible
-  domain: apigee.com
-  image: ""
-- curated_id: 79a254dc3afe55823b3514eaa03d1849
-  item_date: "2014-05-29 00:00:00"
-  title: 'The Why and How of APIs: From App to Platform'
-  url: http://apigee.com/about/blog/digital-business/why-and-how-apis-app-platform
-  domain: apigee.com
-  image: ""
-- curated_id: 03313a8b8ef1d47e13d61618a8297fa6
-  item_date: "2014-06-02 00:00:00"
-  title: 'Charting the API Journey: Accentures Maturity Model'
-  url: http://apigee.com/about/blog/technology/charting-api-journey-accentures-maturity-model
-  domain: apigee.com
-  image: ""
-- curated_id: bc07c9f2925d73fd18785bd87d9fc27d
-  item_date: "2014-06-02 00:00:00"
-  title: IEEE ?State of the xAPI? Survey Results Released
-  url: http://makingbetter.us/2014/06/ieee-state-of-the-xapi-survey-results-released/
-  domain: makingbetter.us
-  image: ""
-- curated_id: a41d5c6c1b21e157d2d8a9963f7931d3
-  item_date: "2014-06-02 00:00:00"
-  title: Oreo is Using APIs to Improve Digital Marketing
-  url: http://www.programmableweb.com/news/oreo-using-apis-to-improve-digital-marketing/2014/06/02
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: 1acb6d3577218c4b34d8ca1fac3332d6
-  item_date: "2014-06-04 00:00:00"
-  title: 'API-Centric Architecture: New Foundational Technology for Apps'
-  url: http://apigee.com/about/blog/detail/api_centric_architecture_new_foundational_technology_for_apps
-  domain: apigee.com
-  image: ""
-- curated_id: ff6f426fc615b9009d525a73b0609ea3
-  item_date: "2014-06-04 00:00:00"
-  title: Developing the Recurly Integrator Community
-  url: https://blog.recurly.com/2014/06/developing-recurly-integrator-community
-  domain: blog.recurly.com
-  image: ""
-- curated_id: 13b9dccb7e9b537d5aa3a6718f232e16
-  item_date: "2014-06-04 09:55:57"
-  title: What You Need to Know About APIs to Build Mobile Applications | App Developer
-    Magazine
-  url: http://appdevelopermagazine.com/1509/2014/6/1/What-You-Need-to-Know-About-APIs-to-Build-Mobile-Applications
-  domain: appdevelopermagazine.com
-  image: ""
-- curated_id: 2506007bad0559f55eba158fcf7c80a6
-  item_date: "2014-06-06 00:00:00"
-  title: 'APIs: A Key to Rationalizing Agency IT Costs (webcast  podcast)'
-  url: http://apigee.com/about/blog/detail/apis_a_key_to_rationalizing_agency_it_costs_webcast_podcast
-  domain: apigee.com
-  image: ""
-- curated_id: 16bfd71965707d2e9ad75b1e8ac9cfa8
-  item_date: "2014-06-09 00:00:00"
-  title: Jailbreak Your APIs
-  url: http://www.apiacademy.co/jailbreak-your-apis/
-  domain: www.apiacademy.co
-  image: ""
-- curated_id: 71ac6ccb626befdfd8b68becfa052a5a
-  item_date: "2014-06-11 00:00:00"
-  title: 'The Why and How of APIs: Modernizing the Enterprise'
-  url: http://apigee.com/about/blog/detail/the_why_and_how_of_apis_modernizing_the_enterprise
-  domain: apigee.com
-  image: ""
-- curated_id: 66cee59c8ff4bda6e33b2b8c6f7b00fa
-  item_date: "2014-07-24 00:00:00"
-  title: Don?t just throw APIs at the problem!
-  url: http://blogs.mulesoft.com/biz/dont-just-throw-apis/
-  domain: blogs.mulesoft.com
-  image: ""
-- curated_id: 05cff3ad3028db7fa5b497b4be13ebfb
-  item_date: "2014-07-24 13:45:48"
-  title: Orange unleashes API assets, hires San Fran firm to lure in devs
-  url: http://www.theregister.co.uk/2014/07/18/orange_makes_apis_developer_friendly/
-  domain: www.theregister.co.uk
-  image: ""
-- curated_id: 5f5e34630206ab9f8f8d7a7907e12641
-  item_date: "2014-07-31 16:44:51"
-  title: SAP Decides API Management Is One Of The Next Big Things - Forbes
-  url: http://www.forbes.com/sites/benkepes/2014/07/31/sap-decides-api-management-is-one-of-the-next-big-things/
-  domain: www.forbes.com
-  image: ""
-- curated_id: 2b12a24fa1b66a9092f58f74c1862ad2
-  item_date: "2014-08-04 00:00:00"
-  title: Four Big Mistakes In Your REST API Strategy
-  url: http://blog.dreamfactory.com/fourbigmistakesinyourrestapistrategy
-  domain: blog.dreamfactory.com
-  image: ""
-- curated_id: 8d66dd4a794eb2523075fec30ce92ea8
-  item_date: "2014-08-05 08:43:02"
-  title: 'API Platform Defined: When an API Provider is a Platform'
-  url: http://nordicapis.com/api-platform-defined-api-provider-is-a-platform/
-  domain: nordicapis.com
-  image: ""
-- curated_id: 92211ba1e080f12af558b58934726c3f
-  item_date: "2014-08-06 09:00:17"
-  title: Crawling is the new API - a legal and technical rough guide for the travel
-    industry
-  url: https://www.tnooz.com/article/API-new-crawling-legal-technical-guide/
-  domain: www.tnooz.com
-  image: ""
-- curated_id: ba26568ac23722f290cce073d58cc1b6
-  item_date: "2014-08-08 22:40:23"
-  title: 'Introducing the API Economy: A Dialogue | Cutter Consortium'
-  url: https://www.cutter.com/content-and-analysis/resource-centers/agile-project-management/sample-our-research/apmr1208.html
-  domain: www.cutter.com
-  image: ""
-- curated_id: e05d66c645b5d4a462854d73829e1331
-  item_date: "2014-08-12 10:05:43"
-  title: To monetize your data, productize your APIs
-  url: http://blogs.ca.com/2014/07/23/monetize-data-productize-apis/
-  domain: blogs.ca.com
-  image: ""
-- curated_id: fc4a10b92acae264b5cc4e466daf08a1
-  item_date: "2014-08-15 23:36:31"
-  title: The hazards of the API economy | CITEworld
-  url: http://www.cio.com/category/consumer-technology/
-  domain: www.cio.com
-  image: ""
-- curated_id: 104f2611511a8ec37a3b30ea797cb239
-  item_date: "2014-08-19 00:00:00"
-  title: 'Single-Stack APIs: The Key to Enabling a Seamless Omnichannel Sales Strategy'
-  url: http://www.worldpay.com/us/blog/single-stack-apis-key-enabling-seamless-omnichannel-sales-strategy
-  domain: www.worldpay.com
-  image: ""
-- curated_id: 3577c429d05362dcc3736a5f6b28bc1a
-  item_date: "2014-08-20 11:42:08"
-  title: The Collaborative Economy APIs mean Changes to Commerce | Web Strategy by
-    Jeremiah Owyang | Digital Business
-  url: http://www.web-strategist.com/blog/2014/08/20/the-collaborative-economy-apis-mean-changes-to-commerce/
-  domain: www.web-strategist.com
-  image: ""
-- curated_id: b39d33b47c455eb0e55ecf81c25c4f2c
-  item_date: "2014-08-21 00:00:00"
-  title: Creating Bottom Line Growth by Aligning APIs and Market Trends
-  url: http://www.mashery.com/blog/creating-bottom-line-growth-aligning-apis-and-market-trends
-  domain: www.mashery.com
-  image: ""
-- curated_id: 3c0e7896f643577047f54fee30808010
-  item_date: "2014-08-21 00:00:00"
-  title: 'Accelerating Growth: A Case For Opening up your Core'
-  url: http://nordicapis.com/accelerating-growth-a-case-for-opening-up-your-core/
-  domain: nordicapis.com
-  image: ""
-- curated_id: 2544d9ea45928ec0af8688ac9b157f23
-  item_date: "2014-09-25 00:00:00"
-  title: I don?t need a business co-founder, I need an API broker
-  url: http://apiscene.com/out
-  domain: apiscene.com
-  image: ""
-- curated_id: 3b4bb1c14cd170197b8596458e7f5e6b
-  item_date: "2014-09-29 00:00:00"
-  title: IT must become a service provider, or die
-  url: http://redmonk.com/dberkholz/2014/09/29/it-must-become-a-service-provider-or-die/
-  domain: redmonk.com
-  image: ""
-- curated_id: 7796ad5fa3d5a6d93824726d8700942d
-  item_date: "2014-10-01 00:00:00"
-  title: Should you Control How your Public API is Used?
-  url: http://nordicapis.com/should-you-control-how-your-public-api-is-used/
-  domain: nordicapis.com
-  image: ""
-- curated_id: 32e17b494f682a764d6e4786c02c39e1
-  item_date: "2014-10-02 00:00:00"
-  title: Mobile, Social, And Big Data ? The Convergence Of The Internets Three Defining
-    Trends
-  url: http://www.businessinsider.com/mobile-and-social-drive-big-data-industry-2014-9
-  domain: www.businessinsider.com
-  image: ""
-- curated_id: 28a771f740d5a3eb15db6d1757497be9
-  item_date: "2014-10-03 00:00:00"
-  title: 5 Reasons Why Developers are not Using your API
-  url: http://nordicapis.com/5-reasons-why-developers-are-not-using-your-api/
-  domain: nordicapis.com
-  image: ""
-- curated_id: be1bd40347aecb7fbbb5b7d0c38afecc
-  item_date: "2014-10-27 00:00:00"
-  title: 'KPIs for APIs: Measuring API Success, Real World Examples'
-  url: http://www.programmableweb.com/news/kpis-apis-measuring-api-success-real-world-examples/analysis/2014/10/27
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: 8886860a9daef9f3e0e9457947c86b93
-  item_date: "2014-11-04 09:24:18"
-  title: 'The Three Letters That Could Change Your Business: API'
-  url: https://www.entrepreneur.com/article/239264
-  domain: www.entrepreneur.com
-  image: ""
-- curated_id: 6aa5ec551724a070892639c352f17902
-  item_date: "2014-12-02 00:00:00"
-  title: API?s as Products ? Revisited
-  url: https://developer.ibm.com/api/2014/12/02/apis-products-revisited/
-  domain: developer.ibm.com
-  image: ""
-- curated_id: 15d25c8706e4081937aa3a31ca989c0c
-  item_date: "2014-12-22 00:00:00"
-  title: The Importance of Enabling APIs ? All Things API with Ben Kepes
-  url: http://blog.cloud-elements.com/importance-enabling-apis-things-api-ben-kepes
-  domain: blog.cloud-elements.com
-  image: ""
-- curated_id: ed8028dc61d6adbc1fd929777c760c74
-  item_date: "2014-12-27 09:24:06"
-  title: Open data improves with API [First] | Opensource.com
-  url: https://opensource.com/government/14/12/open-data-portals-api-first
-  domain: opensource.com
-  image: ""
-- curated_id: 082c33c9717c6a2aad1f4e2dba9cc313
-  item_date: "2014-12-28 00:00:00"
-  title: How APIs are Enabling Unique Business Partnerships
-  url: http://www.programmableweb.com/news/how-apis-are-enabling-unique-business-partnerships/elsewhere-web/2014/12/28
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: f1bbd057860cca9e4205ff8c0a40ceaa
   item_date: "2015-01-05 00:00:00"
   title: Manage your APIs like content, not like software
@@ -359,17 +126,17 @@
   url: http://www.zdnet.com/article/how-web-services-became-cloud-magic-then-turned-real-again/
   domain: www.zdnet.com
   image: ""
-- curated_id: 1c54ac8c0beba8e115445e060c9db5e7
-  item_date: "2015-03-26 00:00:00"
-  title: 'What You Thought You Knew About API Trends: API Leaders Tell All at SXSW'
-  url: http://blog.runscope.com/posts/what-you-thought-you-knew-about-api-trends-api-leaders-tell-all-at-sxsw
-  domain: blog.runscope.com
-  image: ""
 - curated_id: d19c3743110a4386917c2ec752e65024
   item_date: "2015-03-26 00:00:00"
   title: The shape of software architecture
   url: http://radar.oreilly.com/2015/03/the-shape-of-software-architecture.html
   domain: radar.oreilly.com
+  image: ""
+- curated_id: 1c54ac8c0beba8e115445e060c9db5e7
+  item_date: "2015-03-26 00:00:00"
+  title: 'What You Thought You Knew About API Trends: API Leaders Tell All at SXSW'
+  url: http://blog.runscope.com/posts/what-you-thought-you-knew-about-api-trends-api-leaders-tell-all-at-sxsw
+  domain: blog.runscope.com
   image: ""
 - curated_id: 30289a4c44992771b83a5fd84be3e7be
   item_date: "2015-03-26 20:11:31"
@@ -784,17 +551,17 @@
   url: https://dzone.com/articles/the-state-of-api-2016-growth-opportunities-challen
   domain: dzone.com
   image: ""
-- curated_id: 468cd6733654cad6ab5b8d8f74bdb7be
-  item_date: "2016-02-29 00:00:00"
-  title: Considering the Obvious and Subtle Differences Between Similar API Providers
-  url: https://dzone.com/articles/considering-the-obvious-and-subtle-differences-bet
-  domain: dzone.com
-  image: ""
 - curated_id: a77175fdfb832b0b683b37252cf0aa63
   item_date: "2016-02-29 00:00:00"
   title: APIs and the Promise of ?Everyware?
   url: https://blog.percolate.com/2016/02/apis-and-the-promise-of-everyware/
   domain: blog.percolate.com
+  image: ""
+- curated_id: 468cd6733654cad6ab5b8d8f74bdb7be
+  item_date: "2016-02-29 00:00:00"
+  title: Considering the Obvious and Subtle Differences Between Similar API Providers
+  url: https://dzone.com/articles/considering-the-obvious-and-subtle-differences-bet
+  domain: dzone.com
   image: ""
 - curated_id: 5acb6f1d05a38495e270aaf791468fc4
   item_date: "2016-03-03 00:00:00"
@@ -1032,17 +799,17 @@
   url: https://dzone.com/articles/how-unilever-is-embracing-api-transformations
   domain: dzone.com
   image: ""
-- curated_id: 3e6039436a810aad806de7d2fab0348a
-  item_date: "2016-06-29 00:00:00"
-  title: Is this the next step in software?
-  url: http://techfinancials.co.za/2016/06/is-this-the-next-step-in-software/
-  domain: techfinancials.co.za
-  image: ""
 - curated_id: b394fbca5e4e4a43e41ca034bbf5a815
   item_date: "2016-06-29 00:00:00"
   title: Three APIs Making the Case Against Building It Yourself
   url: http://everydeveloper.com/apis-against-building-yourself/
   domain: everydeveloper.com
+  image: ""
+- curated_id: 3e6039436a810aad806de7d2fab0348a
+  item_date: "2016-06-29 00:00:00"
+  title: Is this the next step in software?
+  url: http://techfinancials.co.za/2016/06/is-this-the-next-step-in-software/
+  domain: techfinancials.co.za
   image: ""
 - curated_id: 4fdfce16a6d99d2a2d292e1bb2e2c3dd
   item_date: "2016-07-04 00:00:00"
@@ -1050,17 +817,17 @@
   url: http://www.tibco.com/blog/2016/07/04/use-apis-to-build-bridges-not-silos/
   domain: www.tibco.com
   image: ""
-- curated_id: 7951201af2ef9312e604be77445a30d6
-  item_date: "2016-07-05 00:00:00"
-  title: The Value of Web APIs
-  url: http://myinforms.com/en-us/a/38147333-the-value-of-web-apis/
-  domain: myinforms.com
-  image: ""
 - curated_id: a489a85f661b6b50e557e5c11bba9a0d
   item_date: "2016-07-05 00:00:00"
   title: Ytel Talks All About the API
   url: http://www.devsworld.com/topics/devsworld/articles/422837-ytel-talks-all-the-api.htm
   domain: www.devsworld.com
+  image: ""
+- curated_id: 7951201af2ef9312e604be77445a30d6
+  item_date: "2016-07-05 00:00:00"
+  title: The Value of Web APIs
+  url: http://myinforms.com/en-us/a/38147333-the-value-of-web-apis/
+  domain: myinforms.com
   image: ""
 - curated_id: 9eb5ea36afd56db32be7f92087b17226
   item_date: "2016-07-05 00:00:00"
@@ -1208,12 +975,6 @@
   url: http://application-programming-interface.cioreview.com/vendor/2015/nexright
   domain: application-programming-interface.cioreview.com
   image: ""
-- curated_id: a00c793e8810c04d01781edeb54c1c5a
-  item_date: "2016-08-29 18:43:10"
-  title: Your sacred cow ? Keran?s Thoughts
-  url: https://medium.com/m/global-identity
-  domain: medium.com
-  image: ""
 - curated_id: e78a0ae2cfdafd3ccbfaa84c6dc803d0
   item_date: "2016-08-30 00:00:00"
   title: How to Build an API Initiative That Doesn?t Suck
@@ -1348,5 +1109,263 @@
   title: 'Live Call: Dun  Bradstreet Corp Earnings Call (q3 2016)'
   url: https://biz.yahoo.com/cc/5/154705.html
   domain: biz.yahoo.com
+  image: ""
+- curated_id: ab2a8198b285b9cb7b2d8bb43c98dec8
+  item_date: "2016-12-14 00:00:00"
+  title: API or die
+  url: http://www.niemanlab.org/2016/12/api-or-die/
+  domain: www.niemanlab.org
+  image: ""
+- curated_id: f33d0c319e9a61adb9c7fde56870ad36
+  item_date: "2016-12-14 00:00:00"
+  title: How can organizations with large legacy footprint plan their API...
+  url: http://www.infosysblogs.com/mainframe-modernization/2016/12/post.html
+  domain: www.infosysblogs.com
+  image: ""
+- curated_id: be94d061cf2414121aa47719abee31fd
+  item_date: "2016-12-14 00:00:00"
+  title: APIs are Products
+  url: http://api-university.com/blog/apis-are-products/
+  domain: api-university.com
+  image: ""
+- curated_id: 6e29942a26aa8662e372f85a66ee4952
+  item_date: "2017-01-03 21:00:02"
+  title: Flipboard on Flipboard
+  url: https://flipboard.com/@flipboard/flip.it%2FOfsZQ0-instead-of-optimizing-processes-reimagi/f-2418440aca%2Fhbr.org
+  domain: flipboard.com
+  image: ""
+- curated_id: f522d230541df8acbc80c028368bd2b2
+  item_date: "2017-01-04 00:00:00"
+  title: On the Origins of API-First Companies
+  url: https://blog.readme.io/on-the-origins-of-api-first-companies/
+  domain: blog.readme.io
+  image: ""
+- curated_id: 9503240d34f4fdd77b4b932742a24a87
+  item_date: "2017-01-09 10:25:18"
+  title: APIs as MVP?! - CloudObjects Blog
+  url: https://blog.cloudobjects.io/2016/12/01/api-as-mvp/
+  domain: blog.cloudobjects.io
+  image: ""
+- curated_id: 73652e045041d4b139b69e2871ef325d
+  item_date: "2017-01-10 00:00:00"
+  title: What Kairos Learned Building an API Startup
+  url: https://www.programmableweb.com/news/what-kairos-learned-building-api-startup/elsewhere-web/2017/01/10
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 866c1e5e432c4589fb253005dd242d09
+  item_date: "2017-01-11 18:13:13"
+  title: Why APIs are Important for Business
+  url: https://medium.com/@dmcconville56/why-apis-are-important-for-business-4988e969b62d#.rr0umr6mv
+  domain: medium.com
+  image: ""
+- curated_id: 2e22bbdb0552bf24dc4df0c318b4a217
+  item_date: "2017-01-13 09:59:03"
+  title: API growth forcing vendors to take notice or risk losing out
+  url: http://searchnetworking.techtarget.com/tip/API-growth-forcing-vendors-to-take-notice-or-risk-losing-out
+  domain: searchnetworking.techtarget.com
+  image: ""
+- curated_id: 48e8a118359e3de5f3f25fedfc005e49
+  item_date: "2017-01-13 09:59:22"
+  title: 'API adoption: Traditional Industries Lag'
+  url: http://www.networkworld.com/article/3156563/cloud-computing/api-adoption-traditional-industries-lag.html
+  domain: www.networkworld.com
+  image: ""
+- curated_id: 04e1ee2af4874bc80cf7f3bc1379bbe4
+  item_date: "2017-01-16 19:26:35"
+  title: Why the Surge of Third-Party APIs Matters to Supply Chain Executives
+  url: http://www.ebnonline.com/author.asp
+  domain: www.ebnonline.com
+  image: ""
+- curated_id: 22c48a036a3ec5fc2f1488ca919a9e9e
+  item_date: "2017-02-02 00:00:00"
+  title: What is an API and Why Does it Matter?
+  url: https://blog.samanage.com/insights/what-is-an-api-and-why-does-it-matter/
+  domain: blog.samanage.com
+  image: ""
+- curated_id: 7cfde6d53f5860ed31210238a746d6e0
+  item_date: "2017-02-08 00:00:00"
+  title: APIs The Soul of Customer Experience (CX)
+  url: https://www.axway.com/en/event/apis-soul-customer-experience-cx
+  domain: www.axway.com
+  image: ""
+- curated_id: e90b67a3facb27aa0315ad126b393650
+  item_date: "2017-02-13 08:07:11"
+  title: APIs Connect Businesses to their Market, Wherever it May Be
+  url: http://www.openlegacy.com/blog/apis-connect-business-to-their-market/
+  domain: www.openlegacy.com
+  image: ""
+- curated_id: a00c793e8810c04d01781edeb54c1c5a
+  item_date: "2017-02-14 00:00:00"
+  title: Measuring the Customer Value of your API
+  url: https://medium.com/m/global-identity
+  domain: medium.com
+  image: ""
+- curated_id: 3a935f343176f973fbdae2aef178e7b0
+  item_date: "2017-02-17 00:00:00"
+  title: "Article: Untangling an API-first Transformation at Scale. Lessons Learnt
+    at PayPal \u2013 Part 1"
+  url: https://www.infoq.com/articles/paypal-api-first-part1
+  domain: www.infoq.com
+  image: ""
+- curated_id: 3c117e331113e27614f7f3819ac9e0b4
+  item_date: "2017-02-23 09:05:17"
+  title: Oracle crushes Apiarys hope in slightly awkward email to customers
+  url: https://www.theregister.co.uk/2017/02/22/oracle_crushes_apiary_customer_hopes/
+  domain: www.theregister.co.uk
+  image: ""
+- curated_id: 63df20d62f436ea4685446e07ccf0923
+  item_date: "2017-02-23 09:42:04"
+  title: Experian shrugs off size to go nimbly into the API economy
+  url: http://diginomica.com/2017/02/22/experian-shrugs-off-size-to-go-nimbly-api-economy/
+  domain: diginomica.com
+  image: ""
+- curated_id: dfcc8dbdb1681d36e3c704acde9e51fd
+  item_date: "2017-02-24 00:00:00"
+  title: Pearson and the Big Winner
+  url: https://opencontent.org/blog/archives/4931
+  domain: opencontent.org
+  image: ""
+- curated_id: 8274c909ed3fcc9e9ee3648fc06e8995
+  item_date: "2017-02-27 00:00:00"
+  title: Twilio CEO Jeff Lawson Talks Apps, Future of Communication
+  url: http://www.pcmag.com/news/351964/twilio-ceo-jeff-lawson-talks-apps-future-of-communication
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 96764745e2f0884125662f8706a73330
+  item_date: "2017-03-01 14:14:56"
+  title: 'Tweet: RT @BoxIncIR: More than 40% of $BOXrsquo;s 58 billion API calls came
+    from third-party applications.'
+  url: https://twitter.com/BoxIncIR/status/837063451075825664
+  domain: twitter.com
+  image: ""
+- curated_id: d580698ef45a8e8f05da9ae591f5e08d
+  item_date: "2017-03-03 00:00:00"
+  title: "Article: Untangling an API-first Transformation at Scale. Lessons Learnt
+    at PayPal \u2013 Part 3"
+  url: https://www.infoq.com/articles/paypal-api-first-part3
+  domain: www.infoq.com
+  image: ""
+- curated_id: 1a992da63142e06c4d4103e76394eaba
+  item_date: "2017-03-03 06:40:46"
+  title: 'APIs: Building a Connected Business in the App Economy'
+  url: https://www.ca.com/us/rewrite/articles/api-management/apis-building-a-connected-business-in-the-app-economy.register.html
+  domain: www.ca.com
+  image: ""
+- curated_id: f3161da6baac0c436c2f2cb8fd2ac858
+  item_date: "2017-03-03 18:07:01"
+  title: "API the Shit Out of IT \u2013 Tradecraft of Transformation"
+  url: https://medium.com/tradecraft-of-transformation/api-the-shit-out-of-it-c0c68ed92ba8#.txr7mgguh
+  domain: medium.com
+  image: ""
+- curated_id: 906d7ab5ceb5e46101a8e73df420f6cf
+  item_date: "2017-03-07 00:00:00"
+  title: Gartner Clarifies Where the API Economy Is Heading
+  url: https://www.programmableweb.com/news/gartner-clarifies-where-api-economy-heading/analysis/2017/03/07
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 01921b5c05ef701c0951778f8c370e76
+  item_date: "2017-03-09 13:48:37"
+  title: 'Tweet: Just having an #API is 20% of the process- the rest is turning that
+    API into a product. @Spinneyo @PitneyBoweshellip; https://t.co/KiRTknswZf'
+  url: https://twitter.com/Apigee/statuses/839956113256648704
+  domain: twitter.com
+  image: ""
+- curated_id: 6bb05bdbc96b2d814ee2a99514d27318
+  item_date: "2017-03-23 00:00:00"
+  title: The Disruptive Force of Disruption
+  url: http://blogs.forrester.com/victor_milligan/17-03-23-the_disruptive_force_of_disruption
+  domain: blogs.forrester.com
+  image: ""
+- curated_id: f4f2ed5a47c7adc18d6507caba379fc5
+  item_date: "2017-04-10 07:15:24"
+  title: 'Tweet: Research: Data flowing thru APIs is significantly associated with
+    sales, net income amp;amp; market cap https://t.co/c31Xvtt3rS @bryan_kirschner'
+  url: https://twitter.com/Apigee/statuses/851438469066969091
+  domain: twitter.com
+  image: ""
+- curated_id: 3bb49745ea28f3b29876cb153f40b885
+  item_date: "2017-04-11 00:00:00"
+  title: How Apps and APIs are Changing the App Acceleration Game
+  url: https://dzone.com/articles/how-apps-and-apis-are-changing-the-app-acceleratio
+  domain: dzone.com
+  image: ""
+- curated_id: 0c5faa5fb3e8eee56420034f8ad1ea86
+  item_date: "2017-04-17 00:00:00"
+  title: Conquer the Web the REST Way
+  url: http://opensourceforu.com/2017/04/conquer-web-rest-way/
+  domain: opensourceforu.com
+  image: ""
+- curated_id: 2cfa80c505958ffd24e559294d9e0e2c
+  item_date: "2017-04-20 00:00:00"
+  title: 'Interconnections via API: Improving The Performance of Digital Analytics'
+  url: https://www.atinternet.com/en/resources/resources/interconnections-via-api-improving-the-performance-of-digital-analytics/
+  domain: www.atinternet.com
+  image: ""
+- curated_id: cf106b1e633cdd7ef54e0d05fd8ad9c0
+  item_date: "2017-04-20 08:00:14"
+  title: 'Amazon Web Services Marketplace: ecosystem by API? - SiliconANGLE'
+  url: http://siliconangle.com/blog/2017/04/19/amazon-web-services-marketplace-ecosystem-api/
+  domain: siliconangle.com
+  image: ""
+- curated_id: 521826820eb1033b350d84b3cfcdeaee
+  item_date: "2017-04-24 00:00:00"
+  title: Does your business need an API?
+  url: http://www.news24.com/MyNews24/does-your-business-need-an-api-20170425
+  domain: www.news24.com
+  image: ""
+- curated_id: c5ec497d4452791edd9dbb47435fadf7
+  item_date: "2017-04-25 00:00:00"
+  title: The History Behind When Build Becomes Buy
+  url: https://auth0.com/blog/the-history-behind-when-build-becomes-buy/
+  domain: auth0.com
+  image: ""
+- curated_id: f415cea9672cca0724a9d14c6e3579a7
+  item_date: "2017-05-01 00:00:00"
+  title: 'APIs: The New Digital Business Frontier'
+  url: https://www.apicasystem.com/blog/apis-new-digital-business-frontier/
+  domain: www.apicasystem.com
+  image: ""
+- curated_id: 46a04ab45cfa5e4904f0f8a736c1f70b
+  item_date: "2017-05-01 00:00:00"
+  title: Enabling the Enterprise with APIs
+  url: https://www.tibco.com/blog/2017/05/01/enabling-the-enterprise-with-apis/
+  domain: www.tibco.com
+  image: ""
+- curated_id: 4a2b4c7d8cda257eaeecd47c7061d0e2
+  item_date: "2017-05-02 08:30:37"
+  title: 'API Product Strategy : 5 top mistakes and how to avoid them'
+  url: https://tyk.io/2017/03/31/5-mistakes-api-product-must-avoid/
+  domain: tyk.io
+  image: ""
+- curated_id: 2c1b994d16113b2875a319ef5e9dded2
+  item_date: "2017-05-04 09:30:37"
+  title: Data is giving rise to a new economy
+  url: http://www.economist.com/news/briefing/21721634-how-it-shaping-up-data-giving-rise-new-economy
+  domain: www.economist.com
+  image: ""
+- curated_id: 26c532d91af1ca025ba8350766499449
+  item_date: "2017-05-05 07:47:12"
+  title: "Regulating the internet giants: The world\u2019s most valuable resource
+    is no longer oil, but data"
+  url: http://www.economist.com/news/leaders/21721656-data-economy-demands-new-approach-antitrust-rules-worlds-most-valuable-resource
+  domain: www.economist.com
+  image: ""
+- curated_id: e047e58a2c62a7d7c4b70c0db5ad2000
+  item_date: "2017-05-08 00:00:00"
+  title: APIs and the Digital Enterprise
+  url: https://www.apicasystem.com/blog/apis-digital-enterprise/
+  domain: www.apicasystem.com
+  image: ""
+- curated_id: c18d9e922d5ea00da734b9f71f0ae467
+  item_date: "2017-05-09 00:00:00"
+  title: Why APIs are key to successful digital transformation
+  url: https://digitalisationworld.com/article/51298/
+  domain: digitalisationworld.com
+  image: ""
+- curated_id: fe8d126e6419dbb2b1f9be6b4cb76b90
+  item_date: "2017-05-10 00:00:00"
+  title: Tips for Evaluating APIs as Part of the Build vs Buy Strategy
+  url: http://api.apacciooutlook.com/cxoinsights/tips-for-evaluating-apis-as-part-of-the-build-vs-buy-strategy-nwid-1995.html
+  domain: api.apacciooutlook.com
   image: ""
 ...
